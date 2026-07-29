@@ -1,20 +1,4 @@
 Readme · MD
-_____         _   _      _         _   _          
- / ____|  /\   | \ | |    | |  /\   | \ | |   /\    
-| (___   /  \  |  \| |    | | /  \  |  \| |  /  \   
- \___ \ / /\ \ | . ` |_   | |/ /\ \ | . ` | / /\ \  
- ____) / ____ \| |\  | |__| / ____ \| |\  |/ ____ \ 
-|_____/_/    \_\_| \_|\____/_/    \_\_| \_/_/    \_\
-                                                    
-  _____ _____ _   _  _____ _    _ 
- / ____|_   _| \ | |/ ____| |  | |
-| (___   | | |  \| | |  __| |__| |
- \___ \  | | | . ` | | |_ |  __  |
- ____) |_| |_| |\  | |__| | |  | |
-|_____/|_____|_| \_|\_____|_|  |_|
-
-AI/ML Enthusiast · Data Science · Python & Java Backend
-<p align="center"> <a href="https://www.linkedin.com/in/sanjana-singh-sengar-570061303/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sajanasengar50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/sanjanasengar50"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 💫 About Me:
 
 🔭 I'm currently working on<br>AI/ML and Data Science projects using Python, Machine Learning, NLP, and Deep Learning. Currently building projects that solve real-world problems and strengthening my DSA skills in Java.<br><br>👯 I'm looking to collaborate on<br>Open-source AI/ML projects, Data Science projects, and beginner-friendly backend development projects using Python.<br><br>🤝 I'm looking for help with<br>Advanced Machine Learning, Deep Learning, MLOps, System Design, and improving my technical communication skills.<br><br>🌱 I'm currently learning<br>Machine Learning, Deep Learning, Data Structures & Algorithms (Java), SQL, Git/GitHub, and FastAPI.<br><br>💬 Ask me about<br>Python, Java, Machine Learning, NLP, Git/GitHub, SQL, Data Science, and beginner AI projects.<br><br>⚡ Fun fact<br>I enjoy turning datasets into meaningful insights and believe the best way to learn is by building real projects.
